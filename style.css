@@ -1,0 +1,27 @@
+#titre {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #F9F9F9;
+}
+
+#merci {
+    font-family: 'Bungee', regular;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+#bise {
+    font-family: 'Calibri', light;
+    color: orangered;
+    text-align: center;
+    font-size: 20px; 
+}
+
+footer {
+    margin-bottom: auto;
+    padding-top: 5em;
+}
